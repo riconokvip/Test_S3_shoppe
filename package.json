@@ -4,6 +4,7 @@
 	"private": true,
 	"homepage": "https://javascriptbear.github.io/todo_react_app",
 	"dependencies": {
+		"@aws-sdk/client-s3": "^3.440.0",
 		"@mantine/core": "^4.2.12",
 		"@mantine/hooks": "^4.2.12",
 		"@testing-library/jest-dom": "^5.16.4",
